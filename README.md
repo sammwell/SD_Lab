@@ -16,6 +16,7 @@
 * Design Patterns DEMO: https://refactoring.guru/files/design-patterns-en-demo.pdf
 * MVC + Observer course notes: http://www.cs.unc.edu/~dewan/comp114/s09/Class%20Notes/15_MVC_Notes.pdf
 * Code resources: https://github.com/ps-ds-lab/2020-resources
+* Pattern-Oriented Software Architecture, Volume 1 - A System Of Patterns.pdf: https://github.com/sammwell/SD_Lab/blob/master/resources/Pattern-Oriented%20Software%20Architecture%2C%20Volume%201%20-%20A%20System%20Of%20Patterns.pdf
 
 ### Unit Tests
 * Principles: http://bit.ly/2Y506tm
